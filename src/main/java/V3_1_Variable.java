@@ -1,4 +1,4 @@
-public class V3_1_Grade {
+public class V3_1_Variable {
     public static void main(String[] args) {
         String name = "Minco";
         char grade = 'A';
